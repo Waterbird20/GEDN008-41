@@ -21,8 +21,9 @@ Find new "meta-material"
 <img src = ./images/nest.png width = 400px>
 <img src = nest.gif>
 
+If we think of the bird-nest material as a bunch of sticks that are just jammed together, which to some very crude degree is accurate, then as a material it would fall somewhere in the spectrum between sand and cotton.[6]
 
-If we think of the bird-nest material as a bunch of sticks that are just jammed together, which to some very crude degree is accurate, then as a material it would fall somewhere in the spectrum between sand and cotton.[5]
+
 
 
 
