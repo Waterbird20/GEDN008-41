@@ -4,7 +4,7 @@ Not only are ants impressively strong, they are also amazing team players.  This
 
 <img src = ./images/bots.png width = 400px>
 
-A 1800 kg automobile is pulled by a team of 6 µTug robots on a concrete floor with load sharing for a combined force of 200 N.1
+A 1800 kg automobile is pulled by a team of 6 µTug robots on a concrete floor with load sharing for a combined force of 200 N.[1]
 
 He most likely would have been surprised to learn that a team of six microrobots, weighing just 3.5 ounces in total, could pull a car weighing 3,900 pounds.[3]
 
