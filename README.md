@@ -19,7 +19,7 @@ It is done by Biomimetics&Dexterous Maipulation Lab[2]
 Find new "meta-material"
 
 <img src = ./images/nest.png width = 400px>
-<img src = https://vp.nyt.com/video/2020/03/10/85553_1_13SCI-NESTS-loop_wg_240p.mp4>
+<img src = ./images/nest.gif>
 
 
 If we think of the bird-nest material as a bunch of sticks that are just jammed together, which to some very crude degree is accurate, then as a material it would fall somewhere in the spectrum between sand and cotton.[5]
