@@ -45,15 +45,18 @@ If we think of the bird-nest material as a bunch of sticks that are just jammed 
 A jamming structure typically consists of a collection of elements with low effective stiffness and damping.
 
 ## 건축에서의 응용
-<img src = ./images/Beijing.jpg>
+<img src = ./images/Beijing.jpg width = 400px>
+
 베이징 국가경기장은 새둥지를 모방한 구조를 갖고 있고 새 둥지 구조를 모방한 가장 대표적인 예시이다. 이 경우 골격이 그 자체로 새둥지와 유사한 구조를 갖고 외부로 노출된다는 특징이 있다. 이런 구조는 그 자체로 안정성을 갖출 뿐만 아니라 현대 건축과 달리 골격을 내부로 숨기지 않기에 자원을 아끼는 효과를 가질 수 있었다.[8]
 
-<img src = ./images/Choga_1.jpg>
+<img src = ./images/Choga_1.jpg width = 400px>
+
 사실은 이 경기장은 새둥지 구조를 흉내낸 단단한 외부 골격을 갖고 있다는 점에서 새둥지 구조와는 약간 다르다고 할 수 있다. 좀 더 새둥지 구조에 가까운 건축물은 짚 뭉치를 건축자재로 사용한 건축물에서 찾을 수 있다. 초가집 지붕은 볏짚, 밀짚, 갈대 등을 엮어서 만드는데, 이런 구조가 본질적으로는 새 둥지 구조와 유사하다.[7]
 
 ## 새로운 구조와 새로운 물질(메타물질). 더 나아갈 수 있을 여지가 있다.
 새집 구조는 (익히지 않은) 입자(알갱이)와 솜의 구조의 어느 중간이다.
-<img src = ./images/graph.jpg>
+
+<img src = ./images/graph.jpg width = 400px>
 
 위 그래프는 샘플에 가해진 strain에 대한 stress를 나타낸다. Stress가 높을 수록 원래 상태로 돌아가려는 힘인 탄성력이 높다고 할 수 있다.[5]
 새둥지 구조는 쌀알과 솜의 어느 중간에 대응되는 탄성력을 가진다고 할 수 있다. 
